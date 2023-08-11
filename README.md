@@ -1,0 +1,2 @@
+# YeettheProject
+RENAME PROJECT TO SOMETHING COOL
