@@ -1,3 +1,7 @@
+Project Name:
+YeetTheProject
+
+
 Libraries Used:
 
 - [Numpy](https://www.youtube.com/watch?v=lLRBYKwP8GQ&t=1073s)
@@ -11,14 +15,10 @@ Libraries Used:
 References
 
 - [Fish Data Sheet](https://www.kaggle.com/datasets/aungpyaeap/fish-market)
-- [cancer data sheet]()
-- []
-- []
+- [cancer data sheet](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
 
-@misc{misc_car_evaluation_19,
-  author       = {Bohanec,Marko},
-  title        = {{Car Evaluation}},
-  year         = {1997},
-  howpublished = {UCI Machine Learning Repository},
-  note         = {{DOI}: https://doi.org/10.24432/C5JP48}
-}
+
+help:
+
+- [Tech with tim](https://www.techwithtim.net)
+- [Simple neuron thing(?)](https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1)
